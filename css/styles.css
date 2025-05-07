@@ -1,0 +1,86 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.top-line {
+  background-color: #e7e9fc;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #4d5ae5;
+  font-weight: 700;
+  font-size: 21px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+}
+
+.studio {
+  color: #2e2f42;
+}
+
+.container {
+  background-color: #2e2f42;
+  height: 600px;
+}
+
+.header-1 {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.button {
+  background-color: #4d5ae5;
+  color: #ffffffff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  display: block;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+h2 {
+  text-align: center;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.studio-footer {
+  color: #f4f4fd;
+}
+
+.sales-growth {
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+
+.hidden {
+  display: none;
+}
