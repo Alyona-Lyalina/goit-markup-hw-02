@@ -55,15 +55,15 @@ h2 {
   font-style: normal;
 }
 
-.mail {
+.contacts {
   letter-spacing: 0.02em;
 }
 
-.mail:hover {
+.contacts:hover {
   color: #404bbf;
 }
 
-.mail:focus {
+.contacts:focus {
   color: #404bbf;
 }
 .container {
@@ -115,7 +115,7 @@ h2 {
   background-color: #f4f4fd;
 }
 
-.team-title {
+.subtitle {
   text-transform: capitalize;
   color: #2e2f42;
   font-size: 36px;
